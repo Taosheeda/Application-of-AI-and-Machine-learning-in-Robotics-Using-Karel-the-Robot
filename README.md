@@ -3,7 +3,13 @@ The World today is revolving around sophisticated technology in which robots are
 
 Robots are now created using machine learning training. Also, a sizable number of datasets are utilized to train the computer vision model, enabling robotics to distinguish distinct objects and take the appropriate actions.
 
-Insied the source-code attached, contains some set of commands written in python which was used to direct Karel to perform certain tasks within its world.
+Insied the source-code attached, I wrote some set of codes in python which was used to direct Karel the robot to perform two different tasks within its world.
+
+### Steeple-Chase (Task 1)
+This task is a kind of simulation that shows Karel as an athlete in a relay race that involves running and jumping some hurdles before crossing the finish line.
+
+### Mountain Karel (Task 2)
+In this Task, I will be teaching Karel the robot to hike a mountain and command Karel to place a beeper at the peak of the mountain before descending. It sounds cool, right? Let get started
 
 ## Introduction.
 
