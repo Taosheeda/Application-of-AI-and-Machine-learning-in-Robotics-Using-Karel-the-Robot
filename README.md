@@ -5,16 +5,22 @@ Robots are now created using machine learning training. Also, a sizable number o
 
 In this article, we are going to learn how we can direct Karel to perform certain tasks within its world using some set of commands.
 
-Introduction.
+## Introduction.
 
 Karel is a programming language that is used for teaching beginners the basics of programming and robotics. It is a high-level programming language that is easy to learn and understand.
 
 Karel is also used to teach a wide range of concepts including control flow, functions, and basic algorithms. It is also used to explain an introduction to robotics, as the students can learn about basic concepts such as sensors, actuators, and feedback control.
 
-Requirements
+## Requirements
 
-PyCharm - for running and testing our codes. You don't have it? Don't worry you can download it for free here Pycharm by JetBrains
+PyCharm - for running and testing our codes. You don't have it? Don't worry you can download it for free here [Pycharm by JetBrains]
 
-You can also write and run your code using Coding rooms workspace. It's free
+You can also write and run your code using [Coding rooms workspace]. It's free
+
+You can as well use VS code, you will need to download python extension though
 
 Basic Knowledge of Python.
+
+
+[Pycharm by JetBrains]: https://www.jetbrains.com/pycharm/download/
+[Coding rooms workspace]: https://app.codingrooms.com/w/BbcgN5dmOEYi
