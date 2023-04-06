@@ -3,7 +3,7 @@ The World today is revolving around sophisticated technology in which robots are
 
 Robots are now created using machine learning training. Also, a sizable number of datasets are utilized to train the computer vision model, enabling robotics to distinguish distinct objects and take the appropriate actions.
 
-In this article, we are going to learn how we can direct Karel to perform certain tasks within its world using some set of commands.
+Insied the source-code attached, contains some set of commands written in python which was used to direct Karel to perform certain tasks within its world.
 
 ## Introduction.
 
